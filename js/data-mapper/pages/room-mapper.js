@@ -225,12 +225,17 @@ class RoomMapper extends BaseDataMapper {
             const roomInfo = room.usageGuide || '';
             const lines = roomInfo.split(/\n/).filter(l => l.trim());
 
+            // 매핑된 값이 있는 info-block(제목/구분선 포함)을 통째로 노출/미노출 처리
+            const guideBlock = guideEl.closest('.info-block');
             if (lines.length > 0) {
                 lines.forEach(line => {
                     const li = document.createElement('li');
                     li.textContent = line.trim();
                     guideEl.appendChild(li);
                 });
+                if (guideBlock) guideBlock.style.display = '';
+            } else {
+                if (guideBlock) guideBlock.style.display = 'none';
             }
         }
     }
