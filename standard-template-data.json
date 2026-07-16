@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-07-16T03:12:35.879106363Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-07-16T03:17:09.142696858Z",
     "templateType": "fullpage_visual",
     "propertyId": "27465e0f-a3e1-49a5-bd9d-b644bfe66f95",
     "homepageId": "a089a2e4-5d11-4e2d-b14e-1cc9cc8e1cf4"
@@ -993,7 +993,16 @@
     "templateType": "fullpage_visual",
     "images": [
       {
-        "logo": [ ]
+        "logo": [
+          {
+            "id": "2f5f48c5-6fa4-4f9d-b592-4dd53487e70e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a089a2e4-5d11-4e2d-b14e-1cc9cc8e1cf4/logo/1784171827121-qce9qo5xqz.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "seo": {
@@ -1111,7 +1120,7 @@
                 "description": "전통 한옥의 따뜻한 정취와\n자연이 어우러진 편안한 휴식을 선사합니다."
               },
               "closing": {
-                "title": "",
+                "title": "Beyond the Ordinary",
                 "images": [
                   {
                     "id": "0a1fa88b-aa50-462f-8307-3c8257c47b17",
@@ -1124,7 +1133,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": " "
               },
               "essence": {
                 "title": "",
