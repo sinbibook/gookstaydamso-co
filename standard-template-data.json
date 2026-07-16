@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-07-16T03:17:09.142696858Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-07-16T03:21:09.675198912Z",
     "templateType": "fullpage_visual",
     "propertyId": "27465e0f-a3e1-49a5-bd9d-b644bfe66f95",
     "homepageId": "a089a2e4-5d11-4e2d-b14e-1cc9cc8e1cf4"
@@ -995,8 +995,8 @@
       {
         "logo": [
           {
-            "id": "2f5f48c5-6fa4-4f9d-b592-4dd53487e70e",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a089a2e4-5d11-4e2d-b14e-1cc9cc8e1cf4/logo/1784171827121-qce9qo5xqz.png",
+            "id": "d50d24ad-aed9-4ba7-b14c-4256e323e475",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a089a2e4-5d11-4e2d-b14e-1cc9cc8e1cf4/logo/1784172068032-rippsorcsc.png",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
@@ -1423,7 +1423,16 @@
               },
               "about": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "3cf7fd26-4278-484d-89b5-14f68bb38e66",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a089a2e4-5d11-4e2d-b14e-1cc9cc8e1cf4/reservation_about/1784172068036-6p959qo4sk.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "description": "       "
               }
             }
