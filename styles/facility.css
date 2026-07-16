@@ -1073,6 +1073,7 @@ html, body {
     }
 
     .main-section .main-title {
+        font-size: 25px;
         text-align: center;
         padding: 0 20px;
         white-space: normal;
@@ -1080,6 +1081,7 @@ html, body {
     }
 
     .main-subtitle {
+        font-size: 16px;
         text-align: center;
         padding: 0 20px;
         white-space: normal;
@@ -1118,7 +1120,7 @@ html, body {
     }
 
     .title-group-dalto .main-title {
-        font-size: 32px;
+        font-size: 25px;
     }
 
     .title-group-dalto .sub-desc {

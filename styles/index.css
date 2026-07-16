@@ -1193,6 +1193,14 @@ body {
         word-break: keep-all;
     }
 
+    .main-title {
+        font-size: 25px !important;
+    }
+
+    .main-subtitle {
+        font-size: 16px;
+    }
+
     .main-title br,
     .main-subtitle br {
         display: none;
@@ -1320,7 +1328,12 @@ body {
         padding: 0 20px;
     }
 
+    .section-title {
+        font-size: 33px;
+    }
+
     .section-subtitle {
+        font-size: 13px;
         line-height: 1.5;
     }
 

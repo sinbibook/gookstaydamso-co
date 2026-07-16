@@ -510,7 +510,7 @@ html, body {
     top: 182px;
     left: 5vw;
     z-index: 10;
-    max-width: 30%;
+    max-width: 60%;
 }
 
 .room-main-title {
@@ -827,6 +827,14 @@ html, body {
         white-space: normal;
     }
 
+    .main-title {
+        font-size: 25px;
+    }
+
+    .main-subtitle {
+        font-size: 16px;
+    }
+
     .main-title br,
     .main-subtitle br {
         display: none;
@@ -874,7 +882,7 @@ html, body {
     }
 
     .room-sub-title {
-        font-size: 18px;
+        font-size: 16px;
         width: 360px;
         max-width: 100%;
     }
@@ -1093,7 +1101,12 @@ html, body {
         padding: 0 20px;
     }
 
+    .section-title {
+        font-size: 33px;
+    }
+
     .section-subtitle {
+        font-size: 13px;
         line-height: 1.5;
     }
 
