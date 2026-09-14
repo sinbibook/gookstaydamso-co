@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.22.0",
-    "generatedAt": "2026-09-14T03:59:56.682897560Z",
+    "version": "1.23.0",
+    "generatedAt": "2026-09-14T08:13:51.729333155Z",
     "templateType": "fullpage_visual",
     "propertyId": "27465e0f-a3e1-49a5-bd9d-b644bfe66f95",
     "homepageId": "a089a2e4-5d11-4e2d-b14e-1cc9cc8e1cf4"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 21시 00분\n※ 21시 이후 체크인 예정이신 경우, 원활한 입실을 위해 펜션으로 사전 연락 부탁드립니다.\n※ 쾌적한 객실 환경 유지를 위해 입실 및 퇴실 시간을 꼭 준수해 주시기 바랍니다.",
-    "usageGuide": "[공지사항]\n※ 쾌적한 객실 환경 유지를 위해 입실 및 퇴실 시간을 꼭 준수해 주시기 바랍니다.\n※ 14세 미만 아동은 무료로 이용 가능하며, 무료 입실 대상이라도 객실 기준 인원 및 최대 인원에는 포함됩니다.\n※ 객실 내에서는 육류, 생선류 및 튀김류 등 냄새가 강한 음식의 조리가 불가합니다.\n※ 안전한 이용 환경을 위해 개인 화기(화롯대, 장작, 연료 등)의 반입 및 사용은 금지됩니다.\n※ 보호자를 동반하지 않은 미성년자는 이용이 불가합니다.\n※ 객실의 최대 이용 인원을 초과할 경우 입실이 제한됩니다.\n※ 차량 추가 시 펜션에 문의 부탁드립니다.\n※ 발생한 쓰레기는 지정된 분리수거 장소에 분리배출해 주시기 바랍니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 21시 00분\n※ 21시 이후 체크인 예정이신 경우, 원활한 입실을 위해 펜션으로 사전 연락 부탁드립니다.\n※ 쾌적한 객실 환경 유지를 위해 입실 및 퇴실 시간을 꼭 준수해 주시기 바랍니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 14세 이상\n- 아동: 24개월 이상~14세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 24개월 이하 유아는 무료로 이용 가능하나 객실 기준 인원 및 최대 인원에는 포함됩니다.\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 이용 장소: 객실 앞 바베큐장\n- 바베큐 형태: 숯불\n- 제공 구성: 숯+그릴\n- 이용 요금: 객실 당 30,000원 / 숯 추가 시 : 10,000원 (1박기준/현장결제)\n- 이용 시간: 15:00 ~ 22:00\n- 우천 시: 이용 불가\n- 동계 시: 이용 가능\n- 강풍 시: 이용 불가\n※ 안전한 이용 환경을 위해 개인 화기(버너, 숯, 화로 등)의 반입 및 사용은 금지됩니다.\n\n[부대시설]\n[자닮카페]\n- 오전 11시 오픈\n\n[인근 관광지]\n- 경주 보문단지 차량 10분\n- 경주월드 차량 15분\n- 불국사, 첨성대, 동궁 차량 20분\n \n[안마의자]\n- 이용 객실 : 달닮채\n\n[공기청정기&정수기]\n- 이용 객실 : 해닮채\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 미보유\n- 넷플릭스 이용 불가\n\n[주차장]\n- 주차장 보유\n- 이용 요금:무료\n- 주차 대수: 별닮채 2대 / 해닮채, 달닮채 3개\n- 전기차 충전기 이용 불가\n※ 차량 추가 시 펜션에 문의 부탁드립니다.",
+    "usageGuide": "※ 쾌적한 객실 환경 유지를 위해 입실 및 퇴실 시간을 꼭 준수해 주시기 바랍니다.\n※ 14세 미만 아동은 무료로 이용 가능하며, 무료 입실 대상이라도 객실 기준 인원 및 최대 인원에는 포함됩니다.\n※ 객실 내에서는 육류, 생선류 및 튀김류 등 냄새가 강한 음식의 조리가 불가합니다.\n※ 안전한 이용 환경을 위해 개인 화기(화롯대, 장작, 연료 등)의 반입 및 사용은 금지됩니다.\n※ 보호자를 동반하지 않은 미성년자는 이용이 불가합니다.\n※ 객실의 최대 이용 인원을 초과할 경우 입실이 제한됩니다.\n※ 차량 추가 시 펜션에 문의 부탁드립니다.\n※ 발생한 쓰레기는 지정된 분리수거 장소에 분리배출해 주시기 바랍니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 21시 00분\n※ 21시 이후 체크인 예정이신 경우, 원활한 입실을 위해 펜션으로 사전 연락 부탁드립니다.\n※ 쾌적한 객실 환경 유지를 위해 입실 및 퇴실 시간을 꼭 준수해 주시기 바랍니다.\n\n[인원추가요금]\n※ 24개월 이하 유아는 무료로 이용 가능하나 객실 기준 인원 및 최대 인원에는 포함됩니다.\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 이용 장소: 객실 앞 바베큐장\n- 바베큐 형태: 숯불\n- 제공 구성: 숯+그릴\n- 이용 요금: 객실 당 30,000원 / 숯 추가 시 : 10,000원 (1박기준/현장결제)\n- 이용 시간: 15:00 ~ 22:00\n- 우천 시: 이용 불가\n- 동계 시: 이용 가능\n- 강풍 시: 이용 불가\n※ 안전한 이용 환경을 위해 개인 화기(버너, 숯, 화로 등)의 반입 및 사용은 금지됩니다.\n\n[부대시설]\n[자닮카페]\n- 오전 11시 오픈\n\n[인근 관광지]\n- 경주 보문단지 차량 10분\n- 경주월드 차량 15분\n- 불국사, 첨성대, 동궁 차량 20분\n \n[안마의자]\n- 이용 객실 : 달닮채\n\n[공기청정기&정수기]\n- 이용 객실 : 해닮채\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 미보유\n- 넷플릭스 이용 불가\n\n[주차장]\n- 주차장 보유\n- 이용 요금:무료\n- 주차 대수: 별닮채 2대 / 해닮채, 달닮채 3개\n- 전기차 충전기 이용 불가\n※ 차량 추가 시 펜션에 문의 부탁드립니다.",
     "reservationGuide": "※ 쾌적한 객실 환경 유지를 위해 입실 및 퇴실 시간을 꼭 준수해 주시기 바랍니다.\n※ 14세 미만 아동은 무료로 이용 가능하며, 무료 입실 대상이라도 객실 기준 인원 및 최대 인원에는 포함됩니다.\n※ 객실 내에서는 육류, 생선류 및 튀김류 등 냄새가 강한 음식의 조리가 불가합니다.\n※ 안전한 이용 환경을 위해 개인 화기(화롯대, 장작, 연료 등)의 반입 및 사용은 금지됩니다.\n※ 보호자를 동반하지 않은 미성년자는 이용이 불가합니다.\n※ 객실의 최대 이용 인원을 초과할 경우 입실이 제한됩니다.\n※ 차량 추가 시 펜션에 문의 부탁드립니다.\n※ 발생한 쓰레기는 지정된 분리수거 장소에 분리배출해 주시기 바랍니다.",
     "province": "도/시",
     "city": "시/군/구",
@@ -104,31 +104,6 @@
             "id": "580f6fcc-6d76-4f69-b914-944e7779e03d",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d4476a96-d552-46eb-aa57-bb02ab58eea9/main/1784165869600-ubob92kihn.jpg",
             "sortOrder": 3,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          }
-        ]
-      },
-      {
-        "id": "b4798ae3-5b37-4c80-9a7a-fb3cf1da5926",
-        "name": "불멍",
-        "description": "은은하게 퍼지는 불빛을 바라보며\n하루의 긴장을 천천히 내려놓는 시간을 가져보세요.",
-        "usageGuide": "- 이용 객실:전 객실\n- 이용 장소: 객실 앞 바베큐장\n- 제공 구성: 화롯대+장작\n- 이용 요금: 객실 당 20,000원 / 장작 추가 시 10,000원(1박기준/현장결제)\n- 이용 시간: 15:00 ~ 22:00\n- 우천 시: 이용 불가\n※ 안전한 이용 환경을 위해 개인 화기(화롯대, 장작, 연료 등)의 반입 및 사용은 금지됩니다.",
-        "displayOrder": 1,
-        "images": [
-          {
-            "id": "857cad1f-492b-439b-a85a-ab2b60a2cf18",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b4798ae3-5b37-4c80-9a7a-fb3cf1da5926/main/1784165870225-eblpbcjvj8.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "971f9310-211e-44bb-8f7f-6aec838608cc",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b4798ae3-5b37-4c80-9a7a-fb3cf1da5926/main/1784165870224-wt0hir3ymq.jpg",
-            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -357,7 +332,7 @@
           {
             "id": "f31b86ee-ed73-4433-a15d-922f3611bf08",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/621Y3DCBqNeh.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -367,7 +342,7 @@
           {
             "id": "650a9ea0-0f20-44c0-ba18-f42ae3d3880c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/7CmZrRKFE312.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -375,7 +350,7 @@
           {
             "id": "4caab132-2476-4423-9bd7-ca07102eed07",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/3jg9fHdDXRva.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -383,7 +358,7 @@
           {
             "id": "3889d579-cc18-4131-9d01-45d13d7d2b89",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/N4mji0StArQk.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -391,7 +366,7 @@
           {
             "id": "a1852a10-6259-4cdf-b0f2-1789768021cf",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/8vN7jVYxLfmu.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -399,7 +374,7 @@
           {
             "id": "92a1ef4a-72eb-48bd-a0c3-511cea6155e9",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/qO4s1D5cmv2V.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -407,7 +382,7 @@
           {
             "id": "0d1875c9-aaaa-49f4-bbb2-3762ebc707ac",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/lAOrBIE92xpk.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -415,7 +390,7 @@
           {
             "id": "88090e88-677a-455f-81a3-4afa7530633c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/fEpuZjxDbzKH.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -423,7 +398,7 @@
           {
             "id": "6436c40c-0f17-46fe-8f2a-ba011495f400",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/vgQVTpOFByWK.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -431,7 +406,7 @@
           {
             "id": "66e999fb-9271-41e6-bf2d-5aa832c7053d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/59PckzaJQjbX.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -439,7 +414,7 @@
           {
             "id": "08952e72-15ac-435f-ba9d-27925e79e13b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/4CywGPLQhSvx.jpg",
-            "sortOrder": 11,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
