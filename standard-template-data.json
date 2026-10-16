@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.26.0",
-    "generatedAt": "2026-10-16T05:18:49.223606963Z",
+    "version": "1.27.0",
+    "generatedAt": "2026-10-16T05:21:50.733037316Z",
     "templateType": "fullpage_visual",
     "propertyId": "27465e0f-a3e1-49a5-bd9d-b644bfe66f95",
     "homepageId": "a089a2e4-5d11-4e2d-b14e-1cc9cc8e1cf4"
@@ -1206,15 +1206,15 @@
                     "id": "f961249e-a018-4ae7-a592-de182a7bef62",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/a089a2e4-5d11-4e2d-b14e-1cc9cc8e1cf4/directions_hero/1784169478502-ysonhp4hod.jpg",
                     "sortOrder": 0,
-                    "description": " ",
+                    "description": "오시는길 안내",
                     "isSelected": true,
                     "blockId": null
                   }
                 ]
               },
               "notice": {
-                "title": " ",
-                "description": " "
+                "title": "  ",
+                "description": "  "
               }
             }
           ]
